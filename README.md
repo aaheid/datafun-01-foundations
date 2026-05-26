@@ -92,7 +92,8 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/datafun-01-foundations
+git clone https://github.com/aaheid/datafun-01-foundations
+
 
 cd datafun-01-foundations
 code .
@@ -188,3 +189,8 @@ Press `Ctrl+c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 ```
 
 ![VS Code - Running Commands](./docs/images/vscode_running_commands.png)
+This worked:  PS C:\Repos\datafun-01-foundations> dir src
+Make sure you pull the data from where you should pull the data.  location matters.
+git pull origin main
+
+git clone
