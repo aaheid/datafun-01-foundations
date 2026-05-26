@@ -1,0 +1,6 @@
+ANALYTICAL REPORT FOR AAHEID
+============================
+Total Records: 10
+Maximum Value: 5
+Minimum Value: 2
+Average Score: 4.1
