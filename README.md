@@ -95,6 +95,7 @@ open a machine terminal in your `Repos` folder:
 git clone https://github.com/aaheid/datafun-01-foundations
 
 
+
 cd datafun-01-foundations
 code .
 ```
@@ -191,6 +192,8 @@ Press `Ctrl+c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 ![VS Code - Running Commands](./docs/images/vscode_running_commands.png)
 This worked:  PS C:\Repos\datafun-01-foundations> dir src
 Make sure you pull the data from where you should pull the data.  location matters.
-git pull origin main
-
-git clone
+README.md¶
+Update the git clone command to reflect YOUR GitHub account.
+If needed, update any badges or repository links that reference the template repository.
+If needed, replace the template author's name if shown as the project author.
+Update README.md GitHub account
