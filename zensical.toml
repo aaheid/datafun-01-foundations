@@ -64,3 +64,5 @@ nav = [
     { "Glossary" = "glossary.md" },
     { "Variables" = "module/variables.md" },
 ]
+
+site_dir = "site"
